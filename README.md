@@ -5,8 +5,8 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs2M3UwNDM5bThmM29wbGkwZjNqbWVicG1vMG0xazlibHNodDhpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TdfyKrN7HGTIY/giphy.gif" alt="GIF" />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayomiposy&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomiposy&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayomiposy&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayomiposy&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 <br clear="both" />
@@ -44,5 +44,11 @@
 <br />
 
 <div align="center">
-  <img src="https://s3.amazonaws.com/github-readme-streak-stats/ayomiposy" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayomiposy&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayomiposy/ayomiposy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
